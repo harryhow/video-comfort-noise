@@ -1,8 +1,10 @@
 Video Comfort Noise
 ===================
 
-###Test Procedure
+###Preview URL
+[http://itp.nyu.edu/~chc468/v/video-comfort/index.html]
 
+###Test Procedure
 1. open page and allow using your camera otherwise this app won't work
 2. get or notify other client your ID.
 3. let them or you call your/their ID
