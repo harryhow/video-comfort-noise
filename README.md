@@ -12,3 +12,9 @@ http://itp.nyu.edu/~chc468/v/video-comfort/index.html
 5. face tracking will detect your mouth open or close staus to affect the other video chatting client's frame color
  - mouth close -> same color
  - mouth open -> different color
+ - 
+ 
+###Contribution & Credit
+1. Ben's visual effect, https://github.com/bdkauff/face-tracker
+2. Laruen's code example, https://github.com/lmccart/everything-but-the-chat#send-data
+
